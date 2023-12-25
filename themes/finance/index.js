@@ -106,8 +106,8 @@ const LayoutIndex = props => {
         <NavBar {...props} />
       </div>
       {/* 通知横幅 */}
-      <NoticeBar />
-      <Hero {...props} />
+      {/* <NoticeBar /> */}
+      {/* <Hero {...props} /> */}
     </header>
   )
 
